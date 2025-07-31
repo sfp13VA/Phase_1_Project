@@ -12,9 +12,15 @@ I analyzed the data in order to find aircraft features which might correlate wit
 
 ![image](https://github.com/user-attachments/assets/091bc56c-73fc-4d8b-899f-fe7bc52b2bac)
 
+More than one engine correlated with less incidents.
+
 ![image](https://github.com/user-attachments/assets/ad4b1d7e-f907-4b1a-bcb7-b28d48945d53)
 
+Reciprocating engine aircraft were involved with more incidents.
+
 ![image](https://github.com/user-attachments/assets/8052608d-2e71-474f-b88d-ceb58766dfe3)
+
+Boeing and Airbus represented the safest aircraft based on number of engines, engine type, and aircraft damage.
 
 
 # Conclusion
