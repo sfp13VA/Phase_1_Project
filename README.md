@@ -14,13 +14,16 @@ I analyzed the data in order to find aircraft features which might correlate wit
 
 More than one engine correlated with less incidents.
 
+
 ![image](https://github.com/user-attachments/assets/ad4b1d7e-f907-4b1a-bcb7-b28d48945d53)
 
 Reciprocating engine aircraft were involved with more incidents.
 
+
 ![image](https://github.com/user-attachments/assets/8052608d-2e71-474f-b88d-ceb58766dfe3)
 
 Boeing and Airbus represented the safest aircraft based on number of engines, engine type, and aircraft damage.
+
 
 
 # Conclusion
@@ -33,7 +36,9 @@ Boeing and Airbus represented the safest aircraft based on number of engines, en
 The dataset outlines "selected" incidents only and does not include information on the total number of aircraft or total flights, leaving room for more precision using a more complete dataset.
 
 ## Recommendations
-1) Aircraft with multiple engines are recommended, as single engine aircraft are overwhelmingly involved in more incidents.  2) Non-reciprocating engines are recommended, as reciprocating engines are involved in more incidents.  3) Boeing and Airbus made aircraft are specifically recommmended for safety.
+1) Aircraft with multiple engines are recommended, as single engine aircraft are overwhelmingly involved in more incidents.
+2) Non-reciprocating engines are recommended, as reciprocating engines are involved in more incidents.
+3) Boeing and Airbus made aircraft are specifically recommmended for safety.
 
 ## Next Steps
 Evaluating cost and other variables will be crucial, such as ease of service and repair, as well as ability to modify for business purposes, since these considerations will factor into choosing aircraft to purchase.
