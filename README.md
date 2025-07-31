@@ -23,3 +23,5 @@ The dataset outlines "selected" incidents only and does not include information 
 
 ## Next Steps
 Evaluating cost and other variables will be crucial, such as ease of service and repair, as well as ability to modify for business purposes, since these considerations will factor into choosing aircraft to purchase.
+More information included in this Presentation and Notebook: https://github.com/sfp13VA/Phase_1_Project/blob/main/presentation.pdf
+https://github.com/sfp13VA/Phase_1_Project/blob/main/notebook.pdf
