@@ -10,7 +10,15 @@ I make the data easier to work with by dropping unnecessary columns which contai
 # Exploratory Data Analysis
 I analyzed the data in order to find aircraft features which might correlate with number of incidents, which provides a useful tool in order to define saftey.
 
+![image](https://github.com/user-attachments/assets/091bc56c-73fc-4d8b-899f-fe7bc52b2bac)
+
+![image](https://github.com/user-attachments/assets/ad4b1d7e-f907-4b1a-bcb7-b28d48945d53)
+
+![image](https://github.com/user-attachments/assets/8052608d-2e71-474f-b88d-ceb58766dfe3)
+
+
 # Conclusion
+
 1) Aircraft with multiple engines are more reliable.  Overwhelmingly, aircraft involved in incidents are single engine aircraft.
 2) Turbo fan engines appear most reliable, though avoiding reciprocating engines is most crucial when it comes to engine type.
 3) Boeing and Airbus made aircraft are safest due to their overall reliability.
