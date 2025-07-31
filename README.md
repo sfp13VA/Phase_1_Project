@@ -14,7 +14,7 @@ I analyzed the data in order to find aircraft features which might correlate wit
 1) Aircraft with multiple engines are more reliable.  Overwhelmingly, aircraft involved in incidents are single engine aircraft.
 2) Turbo fan engines appear most reliable, though avoiding reciprocating engines is most crucial when it comes to engine type.
 3) Boeing and Airbus made aircraft are safest due to their overall reliability.
-4) 
+   
 ## Limitations
 The dataset outlines "selected" incidents only and does not include information on the total number of aircraft or total flights, leaving room for more precision using a more complete dataset.
 
